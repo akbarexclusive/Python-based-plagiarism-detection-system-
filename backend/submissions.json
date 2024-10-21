@@ -1,0 +1,758 @@
+[
+  {
+    "timestamp": "2024-10-18T22:42:59.359426",
+    "question": "database",
+    "answer": "2 types of normalisation,",
+    "similarity_score": 0.0
+  },
+  {
+    "timestamp": "2024-10-18T22:43:02.125110",
+    "question": "database",
+    "answer": "2 types of normalisation,",
+    "similarity_score": 81.6496580927726
+  },
+  {
+    "timestamp": "2024-10-18T22:43:02.979330",
+    "question": "database",
+    "answer": "2 types of normalisation,",
+    "similarity_score": 81.6496580927726
+  },
+  {
+    "timestamp": "2024-10-18T22:43:05.623983",
+    "question": "database",
+    "answer": "2 types of normalisation,",
+    "similarity_score": 81.6496580927726
+  },
+  {
+    "timestamp": "2024-10-18T22:43:05.807752",
+    "question": "database",
+    "answer": "2 types of normalisation,",
+    "similarity_score": 81.6496580927726
+  },
+  {
+    "timestamp": "2024-10-18T22:43:05.970039",
+    "question": "database",
+    "answer": "2 types of normalisation,",
+    "similarity_score": 81.6496580927726
+  },
+  {
+    "timestamp": "2024-10-18T22:43:06.325637",
+    "question": "database",
+    "answer": "2 types of normalisation,",
+    "similarity_score": 81.6496580927726
+  },
+  {
+    "timestamp": "2024-10-18T22:43:06.541744",
+    "question": "database",
+    "answer": "2 types of normalisation,",
+    "similarity_score": 81.6496580927726
+  },
+  {
+    "timestamp": "2024-10-18T22:44:07.127165",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 0.0
+  },
+  {
+    "timestamp": "2024-10-18T22:44:09.456992",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 67.23762658117583
+  },
+  {
+    "timestamp": "2024-10-18T22:44:10.694030",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 68.09326110961975
+  },
+  {
+    "timestamp": "2024-10-18T22:44:11.272671",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 68.57650321246459
+  },
+  {
+    "timestamp": "2024-10-18T22:44:11.735987",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 68.89147363415341
+  },
+  {
+    "timestamp": "2024-10-18T22:44:12.268966",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 69.11532862480037
+  },
+  {
+    "timestamp": "2024-10-18T22:44:12.461507",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 69.2839195923866
+  },
+  {
+    "timestamp": "2024-10-18T22:44:12.684409",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 69.41625982626533
+  },
+  {
+    "timestamp": "2024-10-18T22:44:12.879070",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 69.52341459932558
+  },
+  {
+    "timestamp": "2024-10-18T22:44:13.163288",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 69.61228514807462
+  },
+  {
+    "timestamp": "2024-10-18T22:44:13.257840",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 69.68741302829578
+  },
+  {
+    "timestamp": "2024-10-18T22:44:13.463339",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 69.75191791526687
+  },
+  {
+    "timestamp": "2024-10-18T22:44:13.661473",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 69.80801924845095
+  },
+  {
+    "timestamp": "2024-10-18T22:44:13.833675",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 69.85734279731686
+  },
+  {
+    "timestamp": "2024-10-18T22:44:14.059209",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 69.90110922239303
+  },
+  {
+    "timestamp": "2024-10-18T22:44:14.179555",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 69.94025459201445
+  },
+  {
+    "timestamp": "2024-10-18T22:44:14.376254",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 69.97550997790086
+  },
+  {
+    "timestamp": "2024-10-18T22:44:14.558122",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.00745553718264
+  },
+  {
+    "timestamp": "2024-10-18T22:44:14.760018",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.03655818135569
+  },
+  {
+    "timestamp": "2024-10-18T22:44:14.899327",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.06319839285239
+  },
+  {
+    "timestamp": "2024-10-18T22:44:15.076659",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.08768968981198
+  },
+  {
+    "timestamp": "2024-10-18T22:44:15.211565",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.1102930017355
+  },
+  {
+    "timestamp": "2024-10-18T22:44:15.444840",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.13122745345484
+  },
+  {
+    "timestamp": "2024-10-18T22:44:15.576309",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.15067856961564
+  },
+  {
+    "timestamp": "2024-10-18T22:44:15.715479",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.16880459708968
+  },
+  {
+    "timestamp": "2024-10-18T22:44:16.057292",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.18574143426333
+  },
+  {
+    "timestamp": "2024-10-18T22:44:16.213580",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.20160651546627
+  },
+  {
+    "timestamp": "2024-10-18T22:44:16.619547",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.2165019022236
+  },
+  {
+    "timestamp": "2024-10-18T22:44:16.835849",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.2305167656604
+  },
+  {
+    "timestamp": "2024-10-18T22:44:17.044347",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.24372939672678
+  },
+  {
+    "timestamp": "2024-10-18T22:44:17.186308",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.25620884673505
+  },
+  {
+    "timestamp": "2024-10-18T22:44:17.460903",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.26801627588483
+  },
+  {
+    "timestamp": "2024-10-18T22:44:17.619280",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.2792060692268
+  },
+  {
+    "timestamp": "2024-10-18T22:44:17.750510",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.28982676598427
+  },
+  {
+    "timestamp": "2024-10-18T22:44:17.905620",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.29992183800584
+  },
+  {
+    "timestamp": "2024-10-18T22:44:18.078983",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.309530345442
+  },
+  {
+    "timestamp": "2024-10-18T22:44:18.258954",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.31868749187404
+  },
+  {
+    "timestamp": "2024-10-18T22:44:18.460754",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.3274250966083
+  },
+  {
+    "timestamp": "2024-10-18T22:44:18.619461",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.33577199834444
+  },
+  {
+    "timestamp": "2024-10-18T22:44:18.935930",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.34375440168819
+  },
+  {
+    "timestamp": "2024-10-18T22:44:19.141671",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.35139617582277
+  },
+  {
+    "timestamp": "2024-10-18T22:44:19.301344",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.3587191129458
+  },
+  {
+    "timestamp": "2024-10-18T22:44:19.522943",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.36574315271626
+  },
+  {
+    "timestamp": "2024-10-18T22:44:19.683260",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.37248657786456
+  },
+  {
+    "timestamp": "2024-10-18T22:44:19.885735",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.37896618523877
+  },
+  {
+    "timestamp": "2024-10-18T22:44:20.030669",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.38519743584503
+  },
+  {
+    "timestamp": "2024-10-18T22:44:20.218372",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.39119458685991
+  },
+  {
+    "timestamp": "2024-10-18T22:44:20.374674",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.39697080811516
+  },
+  {
+    "timestamp": "2024-10-18T22:44:20.596037",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.40253828516447
+  },
+  {
+    "timestamp": "2024-10-18T22:44:20.745644",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.40790831071754
+  },
+  {
+    "timestamp": "2024-10-18T22:44:20.949320",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.41309136595862
+  },
+  {
+    "timestamp": "2024-10-18T22:44:21.112043",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.41809719304322
+  },
+  {
+    "timestamp": "2024-10-18T22:44:21.495710",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.4229348598794
+  },
+  {
+    "timestamp": "2024-10-18T22:44:21.704176",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.42761281814293
+  },
+  {
+    "timestamp": "2024-10-18T22:44:21.864658",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.43213895534404
+  },
+  {
+    "timestamp": "2024-10-18T22:44:22.047100",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.43652064165116
+  },
+  {
+    "timestamp": "2024-10-18T22:44:22.245837",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.44076477208259
+  },
+  {
+    "timestamp": "2024-10-18T22:44:22.422679",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.44487780459623
+  },
+  {
+    "timestamp": "2024-10-18T22:44:22.694795",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.44886579453947
+  },
+  {
+    "timestamp": "2024-10-18T22:44:22.798762",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.45273442586114
+  },
+  {
+    "timestamp": "2024-10-18T22:44:22.955563",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.45648903943855
+  },
+  {
+    "timestamp": "2024-10-18T22:44:23.159884",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.46013465882811
+  },
+  {
+    "timestamp": "2024-10-18T22:44:23.336064",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.46367601371085
+  },
+  {
+    "timestamp": "2024-10-18T22:44:23.532320",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.467117561272
+  },
+  {
+    "timestamp": "2024-10-18T22:44:23.724950",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.47046350572546
+  },
+  {
+    "timestamp": "2024-10-18T22:44:23.933507",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.47371781616948
+  },
+  {
+    "timestamp": "2024-10-18T22:44:24.095135",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.47688424293915
+  },
+  {
+    "timestamp": "2024-10-18T22:44:24.283810",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.47996633260195
+  },
+  {
+    "timestamp": "2024-10-18T22:44:30.916822",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.48296744172717
+  },
+  {
+    "timestamp": "2024-10-18T22:44:31.236512",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.48589074954518
+  },
+  {
+    "timestamp": "2024-10-18T22:44:31.454122",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.48873926960026
+  },
+  {
+    "timestamp": "2024-10-18T22:44:31.661059",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.49151586049017
+  },
+  {
+    "timestamp": "2024-10-18T22:44:31.816352",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.49422323577464
+  },
+  {
+    "timestamp": "2024-10-18T22:44:32.049028",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.49686397312821
+  },
+  {
+    "timestamp": "2024-10-18T22:44:32.172477",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.49944052280344
+  },
+  {
+    "timestamp": "2024-10-18T22:44:32.322381",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.50195521546544
+  },
+  {
+    "timestamp": "2024-10-18T22:44:32.648438",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.50441026945134
+  },
+  {
+    "timestamp": "2024-10-18T22:44:32.854985",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.50680779750394
+  },
+  {
+    "timestamp": "2024-10-18T22:44:40.645464",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.50914981302347
+  },
+  {
+    "timestamp": "2024-10-18T22:44:40.824513",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.51143823587786
+  },
+  {
+    "timestamp": "2024-10-18T22:44:41.018791",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.51367489780712
+  },
+  {
+    "timestamp": "2024-10-18T22:44:41.178600",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.51586154745517
+  },
+  {
+    "timestamp": "2024-10-18T22:44:41.336151",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.51799985505875
+  },
+  {
+    "timestamp": "2024-10-18T22:44:41.536594",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.52009141682049
+  },
+  {
+    "timestamp": "2024-10-18T22:44:41.712017",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.52213775899081
+  },
+  {
+    "timestamp": "2024-10-18T22:44:41.887701",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.5241403416812
+  },
+  {
+    "timestamp": "2024-10-18T22:44:42.075394",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.52610056242939
+  },
+  {
+    "timestamp": "2024-10-18T22:44:42.253368",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.52801975953507
+  },
+  {
+    "timestamp": "2024-10-18T22:44:42.466761",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.52989921518328
+  },
+  {
+    "timestamp": "2024-10-18T22:44:42.636512",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.53174015837138
+  },
+  {
+    "timestamp": "2024-10-18T22:44:42.959782",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.53354376765355
+  },
+  {
+    "timestamp": "2024-10-18T22:44:43.203708",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.53531117371622
+  },
+  {
+    "timestamp": "2024-10-18T22:44:43.280925",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.5370434617969
+  },
+  {
+    "timestamp": "2024-10-18T22:44:43.512022",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.53874167395635
+  },
+  {
+    "timestamp": "2024-10-18T22:44:46.457880",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.54040681121593
+  },
+  {
+    "timestamp": "2024-10-18T22:44:46.655439",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.54203983556808
+  },
+  {
+    "timestamp": "2024-10-18T22:44:46.797876",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.54364167186932
+  },
+  {
+    "timestamp": "2024-10-18T22:44:46.978309",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.54521320962392
+  },
+  {
+    "timestamp": "2024-10-18T22:44:47.172550",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.54675530466473
+  },
+  {
+    "timestamp": "2024-10-18T22:44:47.310786",
+    "question": "database",
+    "answer": "Ensures that all columns contain atomic (indivisible) values and that each record is unique.",
+    "similarity_score": 70.54826878073905
+  },
+  {
+    "timestamp": "2024-10-21T18:44:40.156767",
+    "question": "python",
+    "answer": "may be we are good",
+    "similarity_score": 0.0
+  },
+  {
+    "timestamp": "2024-10-21T18:44:48.051108",
+    "question": "python",
+    "answer": "may be we are good",
+    "similarity_score": 60.03759937744534
+  },
+  {
+    "timestamp": "2024-10-21T18:44:54.718429",
+    "question": "python",
+    "answer": "may be we are bad",
+    "similarity_score": 27.733238202917608
+  },
+  {
+    "timestamp": "2024-10-21T18:44:56.401405",
+    "question": "python",
+    "answer": "may be we are bad",
+    "similarity_score": 63.5892343185238
+  },
+  {
+    "timestamp": "2024-10-21T18:44:57.576902",
+    "question": "python",
+    "answer": "may be we are bad",
+    "similarity_score": 63.47676181426254
+  },
+  {
+    "timestamp": "2024-10-21T18:45:00.716571",
+    "question": "python",
+    "answer": "may be we are bad",
+    "similarity_score": 63.413656804406784
+  },
+  {
+    "timestamp": "2024-10-21T18:45:09.372316",
+    "question": "python",
+    "answer": "may be we are hjhjhj",
+    "similarity_score": 25.091611055039014
+  },
+  {
+    "timestamp": "2024-10-21T18:45:12.276401",
+    "question": "python",
+    "answer": "may be we are hjhjhj",
+    "similarity_score": 67.69589757304098
+  },
+  {
+    "timestamp": "2024-10-21T18:45:12.464681",
+    "question": "python",
+    "answer": "may be we are hjhjhj",
+    "similarity_score": 67.00955928113963
+  },
+  {
+    "timestamp": "2024-10-21T18:45:12.700513",
+    "question": "python",
+    "answer": "may be we are hjhjhj",
+    "similarity_score": 66.530307397951
+  },
+  {
+    "timestamp": "2024-10-21T18:45:12.933487",
+    "question": "python",
+    "answer": "may be we are hjhjhj",
+    "similarity_score": 66.1740919319127
+  },
+  {
+    "timestamp": "2024-10-21T18:45:13.105358",
+    "question": "python",
+    "answer": "may be we are hjhjhj",
+    "similarity_score": 65.89763529089525
+  },
+  {
+    "timestamp": "2024-10-21T18:45:13.321777",
+    "question": "python",
+    "answer": "may be we are hjhjhj",
+    "similarity_score": 65.67611905828716
+  },
+  {
+    "timestamp": "2024-10-21T18:45:13.642130",
+    "question": "python",
+    "answer": "may be we are hjhjhj",
+    "similarity_score": 65.49419325391216
+  },
+  {
+    "timestamp": "2024-10-21T18:45:13.812210",
+    "question": "python",
+    "answer": "may be we are hjhjhj",
+    "similarity_score": 65.34181280392038
+  },
+  {
+    "timestamp": "2024-10-21T18:45:14.014247",
+    "question": "python",
+    "answer": "may be we are hjhjhj",
+    "similarity_score": 65.2121085196363
+  },
+  {
+    "timestamp": "2024-10-21T18:45:17.880784",
+    "question": "python",
+    "answer": "may be we are iyiyiuyuiyiuyiu",
+    "similarity_score": 21.27383130267321
+  },
+  {
+    "timestamp": "2024-10-21T18:45:21.119729",
+    "question": "python",
+    "answer": "may be we are iyiyiuyuiyiuyiu",
+    "similarity_score": 73.54725167654684
+  }
+]
